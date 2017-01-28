@@ -1,5 +1,4 @@
 # Python Refresh
-
 This is my repository for all the files related to Python.  
 Just playing around
 
