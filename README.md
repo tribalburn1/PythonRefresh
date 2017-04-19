@@ -2,7 +2,6 @@
 This is my repository for all the files related to Python.  
 Just messing around
 
-
 ##Description
 Just wanted a place for my files.  The example is a small inventory querry.  Feel free to take what you want.
 
